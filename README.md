@@ -1,6 +1,5 @@
 ## Hi there, I'm Nasteho 👩🏽‍💻👋🏽
 ![Pink Beige and Black Creative Portfolio Animated Presentation-2](https://github.com/user-attachments/assets/ea62e22e-ea52-4ac5-99c3-3409d15d9482)
-## 👋 Hi there! I'm [Your Name]
 
 🚀 **Aspiring Software Engineer** with a deep passion for solving real-world problems through clean, efficient, and interactive software solutions. I’m driven by curiosity and the desire to constantly learn and improve — whether it's mastering a new framework, optimizing a user interface, or understanding the architecture behind scalable systems.
 

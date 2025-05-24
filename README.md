@@ -12,6 +12,7 @@ I’m especially passionate about working with real-world datasets, particularly
 As I grow into my role as a developer, I’m actively seeking opportunities to contribute to meaningful projects, collaborate with other passionate engineers, and continue learning through hands-on experience. My ultimate goal is to build software that doesn’t just work — but makes a real impact.
 
 🛠 Tech Stack
+
 Languages:
 JavaScript, Python, C++, Swift, C#
 

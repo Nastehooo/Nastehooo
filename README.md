@@ -10,3 +10,16 @@ My current focus is on growing as a full-stack developer, using React.js on the 
 I’m especially passionate about working with real-world datasets, particularly in the fields of healthcare, aging, and social science. One of my most recent projects involves developing a data visualization dashboard using the English Longitudinal Study of Ageing (ELSA) dataset. It explores trends in state pensions, health metrics, and more through dynamic charts and geographic maps.
 
 As I grow into my role as a developer, I’m actively seeking opportunities to contribute to meaningful projects, collaborate with other passionate engineers, and continue learning through hands-on experience. My ultimate goal is to build software that doesn’t just work — but makes a real impact.
+
+🛠 Tech Stack
+Languages:
+JavaScript, Python, C++, Swift, C#
+
+Frontend:
+React, HTML, CSS
+
+Backend:
+Node.js, Express.js, REST APIs
+
+Tools & Platforms:
+Git, GitHub, Linux, AWS

@@ -24,3 +24,9 @@ Node.js, Express.js, REST APIs
 
 Tools & Platforms:
 Git, GitHub, Linux, AWS
+
+📫 Let's connect:
+Email: nasteho290@outlook.com
+LinkedIn: www.linkedin.com/in/nastehoabdi
+
+

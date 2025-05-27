@@ -1,6 +1,4 @@
 ## Hi there, I'm Nasteho 👩🏽‍💻👋🏽
-![Pink Beige and Black Creative Portfolio Animated Presentation-2](https://github.com/user-attachments/assets/ea62e22e-ea52-4ac5-99c3-3409d15d9482)
-
 🚀 I'm an **Aspiring Software Engineer** passionate about solving real-world problems through technology and constantly learning new skills. I thrive in collaborative environments, where I can contribute ideas, listen actively, and support my teammates to reach a shared goal. My strong communication skills help me explain complex concepts clearly and work effectively with both technical and non-technical team members. I’m ready to grow, take on challenges, and be a valuable part of any team.
 
 ## 🌐 Socials:
